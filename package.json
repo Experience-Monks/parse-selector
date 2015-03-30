@@ -1,0 +1,30 @@
+{
+  "name": "parse-selector",
+  "version": "1.0.0",
+  "description": "Pass in a selector will return an array which describes the parts of the selector",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Mikko Haapoja",
+    "email": "me@mikkoh.com",
+    "url": "https://github.com/mikkoh"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^3.5.0"
+  },
+  "scripts": {
+    "test": "node test/"
+  },
+  "keywords": [
+    "parse,selector,css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/parse-selector.git"
+  },
+  "homepage": "https://github.com/Jam3/parse-selector",
+  "bugs": {
+    "url": "https://github.com/Jam3/parse-selector/issues"
+  }
+}
